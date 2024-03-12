@@ -1,5 +1,6 @@
 # Shop_management_system-in-cpp
 
+A Shop Management System is a software application designed to streamline and automate various processes involved in managing a retail or wholesale business. This type of system helps store owners or managers in organizing their inventory, sales, customer information, and User Authentication and Access Control .
 Customer.data:
   -> This file store details of customer;
 
